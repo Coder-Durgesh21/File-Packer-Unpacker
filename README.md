@@ -1,6 +1,6 @@
 Project Name : File Packer Unpacker
-Technology : Java Programming
-Description : This Project provides the facility of packing and unpacking the regular files.
-              In case of packing activity all the data of multiple regular files gets stored in single fie.
-              In case of unpacking activity the data from the packed file gets extracted in the separate file.
-            
+Technology : Python Programming
+Description : • Developed a file management application to pack multiple text files into a single               file
+              • Implemented file handling and data processing concepts
+              • Built functionality to restore original files from the packed file
+              • Gained practical understanding of file systems and data organization
